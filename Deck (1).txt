@@ -1,0 +1,50 @@
+Deck
+1 Danitha, Benalia's Hope (DMU) 15
+1 The Aetherspark (DFT) 231
+1 Maul of the Skyclaves (ZNR) 320
+1 Invasion of Dominaria (MOM) 21
+1 Lay Down Arms (BRO) 11
+1 Glasswing Grace (MH3) 254
+1 Sun-Blessed Guardian (MOM) 38
+1 Invasion of Belenon (MOM) 20
+1 Lyra Dawnbringer (DAR) 26
+1 Ecologist's Terrarium (NEO) 246
+1 Charming Prince (ELD) 8
+1 Angel of the Ruins (BLC) 134
+1 Crossroads Village (FIN) 276
+1 Resplendent Angel (M19) 34
+1 Metastatic Evangel (MH3) 35
+1 Kwende, Pride of Femeref (DAR) 25
+1 Ride's End (DFT) 25
+1 Gird for Battle (GRN) 12
+1 Dusk Rose Reliquary (LCI) 10
+1 Faithful Disciple (Y22) 7
+1 Settle the Wreckage (XLN) 34
+1 Clarion Spirit (KHM) 6
+1 Sidequest: Catch a Fish (FIN) 31
+1 Ajani Fells the Godsire (MH3) 19
+15 Plains
+1 Swamp
+
+Sideboard
+1 Seraph of the Scales (RNA) 205
+1 Ice Flan (FIN) 55
+1 Goblin Banneret (GRN) 102
+1 Revitalizing Repast (MH3) 256
+1 Emerald Dragon (CLB) 229
+1 Doors of Durin (LTR) 199
+1 Cloud of Darkness (FIN) 481
+1 Ghor-Clan Rampager (2XM) 198
+1 Lord Skitter's Butcher (WOE) 99
+1 Bladehold War-Whip (ONE) 197
+1 Hero's Downfall (PLST) VOW-120
+1 Arterial Flow (RIX) 62
+1 Mosswood Dreadknight (WOE) 231
+1 Skyknight Vanguard (M20) 218
+1 Attune with Aether (KLD) 145
+1 Bilious Skulldweller (ONE) 83
+1 Snowfield Sinkhole (CLB) 915
+1 Silverquill Campus (MOC) 423
+1 No Witnesses (MKM) 27
+1 Boros Elite (PLST) GK1-78
+1 Aurelia, the Warleader (2X2) 179
